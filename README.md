@@ -1,1 +1,1 @@
-This is a project to practice github action
+This is a project to practise github action
